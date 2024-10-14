@@ -3,9 +3,9 @@ title: Archangel - TryHackMe
 date: 2024-10-14 00:04:00 +100
 categories: [TryHackMe Writeups]
 tags: [linux, LFI, log poisoning]
+image:
+    path: "/assets/archangel/archangel.jpeg"
 ---
-
-![Room Logo](/assets/archangel/archangel.jpeg)
 
 ### Introduction
 

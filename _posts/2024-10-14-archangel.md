@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Archangel - TryHackMe
 date: 2024-10-14 00:04:00 +100
 categories: [TryHackMe Writeups]
